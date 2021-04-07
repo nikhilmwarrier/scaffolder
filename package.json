@@ -1,0 +1,15 @@
+{
+  "name": "scaffolder",
+  "version": "1.0.0",
+  "description": "A quick html scaffolding tool",
+  "main": "index.js",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "inquirer": "^8.0.0"
+  },
+  "author": "nikhilmwarrier",
+  "license": "MIT"
+}
