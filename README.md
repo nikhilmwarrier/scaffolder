@@ -1,4 +1,4 @@
-# scaffolder
+# Scaffolder
 A simple CLI tool that lets you scaffold HTML pages
 
 ## Getting started:
@@ -7,3 +7,5 @@ A simple CLI tool that lets you scaffold HTML pages
 + Run `npm link`
 
 Now you are good to go! Just run `scaffolder` and it will prompt you for config...
+
+[NOTE: I have _absolutely_ no plans to publish this to NPM]
